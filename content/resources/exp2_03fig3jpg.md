@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: exp2_03fig3jpg.jpg
 uid: 80b8ac9e-53ac-d9c1-1444-d99a5504d43e
